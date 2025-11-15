@@ -57,8 +57,8 @@ The script is logically divided into major sections, providing definitions and "
 
 1.  **Clone the Repository:**
     ```bash
-    git clone [your-repo-link]
-    cd [repo-name]
+    git clone [[(https://github.com/dhruv-dosh/MySQL_Relational_Database_Notes)](https://github.com/dhruv-dosh/MySQL_Relational_Database_Notes)]
+    cd Notes
     ```
 2.  **Connect to MySQL:**
     Open your preferred MySQL client and connect to a server instance (preferably a local development or sandbox server).
